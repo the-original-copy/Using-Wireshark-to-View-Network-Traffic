@@ -1,5 +1,13 @@
 # Using-Wireshark-to-View-Network-Traffic
 
+Table of Contents
+=================
+
+1 [Introduction](https://github.com/the-original-copy/Using-Wireshark-to-View-Network-Traffic?tab=readme-ov-file#introduction)</br>
+2 [Part 1: Capture and Analyze Local ICMP Data in Wireshark](https://github.com/the-original-copy/Using-Wireshark-to-View-Network-Traffic?tab=readme-ov-file#part-1-capture-and-analyze-local-icmp-data-in-wireshark)</br>
+3 [Part 2: Capture and Analyze Remote ICMP Data in Wireshark](https://github.com/the-original-copy/Using-Wireshark-to-View-Network-Traffic/blob/main/README.md#part-2-capture-and-analyze-remote-icmp-data-in-wireshark)</br>
+4 [Conclusion](https://github.com/the-original-copy/Using-Wireshark-to-View-Network-Traffic/blob/main/README.md#conclusion)</br>
+
 # Introduction
 
 An application known as a packet sniffer or software protocol analyzer, Wireshark is used for network analysis, troubleshooting, software and protocol development, and teaching. The sniffer records each PDU as data streams pass across the network, allowing it to decode and examine its content in accordance with the relevant RFC or other guidelines.
