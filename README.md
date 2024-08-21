@@ -71,7 +71,7 @@ Next I Expanded the ethernet2 section and indeed the source MAC address matches 
 
 Wireshark obtained the other machines MAC address by capturing the packets sent through the wireless interface and examining the frame’s header.
 
-## Part 2: Capture and Analyze Remote ICMP Data in WIreshark
+## Part 2: Capture and Analyze Remote ICMP Data in Wireshark
 ### Step 1: Start capturing data on the interface
 
 I pinged www.yahoo.com and recieved the below feedback:
